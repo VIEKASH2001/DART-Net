@@ -1,5 +1,5 @@
 # GraDeNAR: Graph-based DeNoising and Artifact Removal Network for Optical Coherence Tomograph
-IEEE Transactions on Image ProcessingIEEE Transactions on Image Processing
+IEEE Transactions on Image Processing
 [MANUSCRIPT UNDER REVIEW]
 
 Abstract
