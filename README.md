@@ -1,4 +1,6 @@
-# GraDeNAR: Graph-based DeNoising and Artifact Removal Network for Optical Coherence Tomograph
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=1500&height=80&lines=GraDeNAR: Graph-based DeNoising and Artifact Removal Network for Optical Coherence Tomograph" alt="Typing SVG" />
+</a>
 IEEE Transactions on Image Processing
 [MANUSCRIPT UNDER REVIEW]
 
